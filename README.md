@@ -9,8 +9,8 @@
 
 * Dunfrey P. Aragão (UFRN University, Natal, Brazil)
 * Adriano Mondini (UNESP 'Júlio de Mesquita Filho' University, Araraquara, Brazil)
-* Luiz Marcos Gonçalves (UFRN University, Natal, Brazil)
-* Davi dos Santos (UFRN University, Natal, Brazil)
+* Luiz M. G. Gonçalves (UFRN University, Natal, Brazil)
+* Davi H. Santos (UFRN University, Natal, Brazil)
 
 ## Acknowledgments
 
