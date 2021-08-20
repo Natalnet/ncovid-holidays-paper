@@ -8,7 +8,7 @@
 ## Authors
 
 * Dunfrey P. Aragão (UFRN University, Natal, Brazil)
-* Adriano Mondini (UNESP 'Julio Mesquita' University, Araraquara, Brazil)
+* Adriano Mondini (UNESP 'Júlio de Mesquita Filho' University, Araraquara, Brazil)
 * Luiz Marcos Gonçalves (UFRN University, Natal, Brazil)
 * Davi dos Santos (UFRN University, Natal, Brazil)
 
