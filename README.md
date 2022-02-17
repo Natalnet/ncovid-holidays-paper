@@ -14,13 +14,37 @@
 
 ## Folder structure and Code
 
+The main code is divided in three files (folder `notebooks/`):
 
-## Dataset
+- Holiday - passo 1 - SEIRD Model.ipynb
+- Holiday - passo 2 - Data Analysis SEIRD and Mobility.ipynb
+- Holiday - passo 3 - Regression.ipynb
 
+Also, all dataset that were used are in `dbs/` and `dbs/handled/`:
+
+- dbs/handled/*
+- brasil_df.csv
+- cases-brazil-states.csv
+- mobility_report_brazil.csv
 
 
 ## Results
 
+Curves of selected settings: Conf.1: Cases, that is, our baseline case; considering which parameters can improve the baseline case, we select Conf.3: Cases + R0; without using Cases as an input feature, we select Conf.9: R0 + Re + Holiday flag, and; Conf.10: PC1 + PC2 as input data. 
+
+(a) COVID-19 daily deaths forecast using cases as input data.
+
+(b) COVID-19 daily deaths forecasts using Cases + R0 as input data. 
+
+(c) COVID-19 daily deaths forecasts using R0 + Re + Holiday flag as input data. 
+
+(d) COVID-19 daily deaths forecasts using PC1 + PC2 as input data.
+
+For these configurations, we draw the best curves (with the lowest RMSE) of each configuration over the test data. 
+
+![alt text](https://www.mdpi.com/ijerph/ijerph-18-11595/article_deploy/html/images/ijerph-18-11595-g017a-550.jpg)
+
+![alt text](https://www.mdpi.com/ijerph/ijerph-18-11595/article_deploy/html/images/ijerph-18-11595-g017b-550.jpg)
 
 
 ## Citation
